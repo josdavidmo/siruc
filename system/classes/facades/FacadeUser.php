@@ -1,7 +1,7 @@
 <?php
 
 
-class CUserData {
+class FacadeUser {
     
     private $db;
     

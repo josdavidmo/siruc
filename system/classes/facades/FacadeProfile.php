@@ -1,6 +1,6 @@
 <?php
 
-class CProfileData {
+class FacadeUser {
 
     private $db;
 

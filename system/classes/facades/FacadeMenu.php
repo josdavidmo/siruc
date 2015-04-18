@@ -1,6 +1,6 @@
 <?php
 
-class CMenuData {
+class FacadeMenu {
     
     private $db;
     
